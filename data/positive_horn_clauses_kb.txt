@@ -1,0 +1,4 @@
+[[n(sunroof), n(premiumSoundSystem), luxuryCar],
+ [n(cost),expensive],
+ [n(expensive), interface],
+ [n(luxuryCar), n(interface), highEndCar]].

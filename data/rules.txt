@@ -1,0 +1,3 @@
+[or, [tennis_instructor/low_skills, equipment/defective ], [training_fee/minimal] ],
+[or, [tennis_instructor/good, equipment/good ], [training_fee/average] ],
+[or, [tennis_instructor/exceptional, equipment/high_quality ], [training_fee/generous] ].
